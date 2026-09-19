@@ -1,0 +1,6 @@
+{
+  "name": "CodeMentor AI",
+  "description": "AI-powered coding learning and mentoring platform for college students featuring interactive AI mentorship, smart debugger, automated code reviews, coding practice, and mock interviews.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
